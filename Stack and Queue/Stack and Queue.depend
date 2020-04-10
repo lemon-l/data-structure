@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586492001 source:g:\我的代码\数据结构\stack and queue\main.cpp
+	<iostream>
+	<stdlib.h>
+
