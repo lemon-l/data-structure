@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587982386 source:g:\我的代码\数据结构\bitree1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
