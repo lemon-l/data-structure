@@ -17,3 +17,9 @@
 
 - 顺序栈：https://blog.csdn.net/lady_killer9/article/details/82712668
 - 队列：https://blog.csdn.net/LiuBo_01/article/details/80412290?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5
+
+### [BiTree](https://github.com/lemon-l/data-structure/tree/master/BiTree)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中包括创建二叉表、前序遍历、中序遍历、后序遍历、层次遍历、求二叉树的高度、二叉树的叶子结点个数等操作。
+<div align="center"><img width="650" src="https://ftp.bmp.ovh/imgs/2020/04/f6e8c2c925b2f8e6.png"></div>
+
