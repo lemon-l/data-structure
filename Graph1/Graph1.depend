@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590662580 source:g:\我的代码\数据结构\graph1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
