@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592356255 source:g:\我的代码\数据结构\find and sort\main.cpp
+	<iostream>
+	<Windows.h>
+	<stdio.h>
+
